@@ -1,0 +1,32 @@
+body{
+    background-image: url('https://media.cntraveler.com/photos/56556bab659c4b487486611e/master/pass/oia-santorini-greece-cr-alamy.jpg');
+    background-position: absolute;
+    background-size: cover;
+
+}
+
+#btncontainer {
+    margin-bottom: 40px;
+}
+
+.btn{
+    background-color: turquoise;
+}
+
+.btn.active {
+    background-color:coral;
+}
+
+.filter {
+    display: none;
+}
+
+.main {
+    color: turquoise;
+}
+
+.jumbotron {
+    color: indigo;
+    background-color: transparent;
+    text-align: center;
+}
